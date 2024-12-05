@@ -1,0 +1,10 @@
+{
+    "startTime": "00:00:00",
+    "url": "https://userinyerface.com/",
+    "avatar": "avatar.png",
+    "numberOfInterests": 3,
+    "uploadAvatarScript": "uploadAvatar.js",
+    "passwordLength": 10,
+    "EmailLength": 8,
+    "DomainLength": 5
+}
